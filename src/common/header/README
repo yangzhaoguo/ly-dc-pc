@@ -1,0 +1,11 @@
+
+
+
+tabItems: 格式 Array *
+参数    name：标题栏文字
+        url： 需要跳转的网址
+
+headText: 格式 String *
+          标题名字
+
+titleText: 左上角标题名字
